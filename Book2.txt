@@ -1,0 +1,73 @@
+POS	Team	EN	ES	AVG
+1	bolonyai20	0,75	0,805	0,7775
+1	pizarro20	0,735	0,82	0,7775
+-	SYMANTO (LDSE) [1]	0,745	0,79	0,7675
+3	koloski20	0,715	0,795	0,755
+3	deborjavalero20	0,73	0,78	0,755
+3	vogel20	0,725	0,785	0,755
+6	higueraporras20	0,725	0,775	0,75
+6	tarela20	0,725	0,775	0,75
+8	babaei20	0,725	0,765	0,745
+9	staykovski20	0,705	0,775	0,74
+9	hashemi20	0,695	0,785	0,74
+11	estevecasademunt20	0,71	0,765	0,7375
+12	castellanospellecer20	0,71	0,76	0,735
+-	SVM+cnGrams	0,68	0,79	0,735
+13	shrestha20	0,71	0,755	0,7325
+13	tommasel20	0,69	0,775	0,7325
+15	johansson20	0,72	0,735	0,7275
+15	murauer20	0,685	0,77	0,7275
+17	espinosagonzales20	0,69	0,76	0,725
+17	ikae20	0,725	0,725	0,725
+19	morenosandoval20	0,715	0,73	0,7225
+20	majumder20	0,64	0,8	0,72
+20	sanchezromero20	0,685	0,755	0,72
+22	lopezchilet20	0,68	0,755	0,7175
+22	nadalalmela20	0,68	0,755	0,7175
+22	carrodve20	0,71	0,725	0,7175
+25	gil20	0,695	0,735	0,715
+26	elexpuruortiz20	0,68	0,745	0,7125
+26	labadietamayo20	0,705	0,72	0,7125
+28	grafiaperez20	0,675	0,745	0,71
+28	jilka20	0,665	0,755	0,71
+28	lopezfernandez20	0,685	0,735	0,71
+31	pinnaparaju20	0,715	0,7	0,7075
+31	aguirrezabal20	0,69	0,725	0,7075
+33	kengyi20	0,655	0,755	0,705
+33	gowda20	0,675	0,735	0,705
+33	jakers20	0,675	0,735	0,705
+33	cosin20	0,705	0,705	0,705
+37	navarromartinez20	0,66	0,745	0,7025
+38	heilmann20	0,655	0,745	0,7
+39	cardaioli20	0,675	0,715	0,695
+39	females20	0,605	0,785	0,695
+39	kaushikamardas20	0,7	0,69	0,695
+-	NN+w nGrams	0,69	0,7	0,695
+42	monteroceballos20	0,63	0,745	0,6875
+43	ogaltsov20	0,695	0,665	0,68
+44	botticebria20	0,625	0,72	0,6725
+45	lichouri20	0,585	0,76	0,6725
+46	manna20	0,595	0,725	0,66
+47	fersini20	0,6	0,715	0,6575
+48	jardon20	0,545	0,75	0,6475
+-	EIN [2]	0,64	0,64	0,64
+49	shashirekha20	0,62	0,645	0,6325
+50	datatontos20	0,725	0,53	0,6275
+51	soleramo20	0,61	0,615	0,6125
+-	LSTM	0,56	0,6	0,58
+52	russo20	0,58	0,515	0,5475
+53	igualadamoraga20	0,525	0,505	0,515
+-	RANDOM	0,51	0,5	0,505
+54	hoertenhuemer20	0,725	-	
+55	duan20	0,72	-	
+55	andmangenix20	0,72	-	
+57	saeed20	0,7	-	
+58	baruah20	0,69	-	
+59	anthonio20	0,685	-	
+60	zhang20	0,67	-	
+61	espinosaruiz20	0,665	-	
+62	shen20	0,65	-	
+63	suareztrashorras20	0,64	-	
+64	niven20	0,61	-	
+65	margoes20	0,57	-	
+66	wu20	0,56	-	
