@@ -1,0 +1,2 @@
+embeddings/embedding_file_es filter=lfs diff=lfs merge=lfs -text
+embeddings/embedding_file_en filter=lfs diff=lfs merge=lfs -text
