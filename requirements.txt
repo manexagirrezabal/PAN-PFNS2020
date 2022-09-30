@@ -6,7 +6,7 @@ chardet==3.0.4
 cryptography==3.2
 idna==2.9
 importlib-metadata==0.19
-joblib==0.15.1
+joblib==1.2.0
 liwc-text-analysis==1.0.2
 mkl-fft
 mkl-random
